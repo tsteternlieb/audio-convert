@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stitch>
+	<config>
+		<framerate>24</framerate>
+	</config>
+	<sources>
+		<source>
+			<path>null</path>
+			<sourceStart>null</sourceStart>
+			<outputStart>null</outputStart>
+			<outputEnd>null</outputEnd>
+		</source>
+	</sources>
+	<!--Finished file duration is 00:20:00:00-->
+</stitch>

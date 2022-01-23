@@ -1,0 +1,62 @@
+SESSION NAME:	Boiler Room Festival 2021 Ash Lauryn in New York City (DJ Mix) MIX-04
+SAMPLE RATE:	48000.000000
+BIT DEPTH:	24-bit
+SESSION START TIMECODE:	00:58:30:00
+TIMECODE FORMAT:	24 Frame
+# OF AUDIO TRACKS:	100
+# OF AUDIO CLIPS:	78
+# OF AUDIO FILES:	31
+
+
+T R A C K  L I S T I N G
+TRACK NAME:	REF (Stereo)
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: Muted 
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	01 58 19 Commentary (from Boiler Room Festival 2021 Ash Lauryn in New York City).L	   01:06:17:05	   01:06:46:13	   00:00:29:07	Unmuted
+1       	2       	02 58 19 How It's Done (feat. K.E) [Original Version].L	   01:06:46:13	   01:11:03:11	   00:04:16:22	Unmuted
+1       	3       	03 58 19 Let's Get the Rhythm.L	   01:11:03:11	   01:14:04:08	   00:03:00:20	Unmuted
+1       	4       	04 58 19 Natural High (Mike Dunn Black Glitter MixX).L	   01:14:04:08	   01:17:06:05	   00:03:01:20	Unmuted
+1       	5       	05 58 19 Random.L             	   01:17:06:05	   01:19:44:21	   00:02:38:16	Unmuted
+1       	6       	06 58 19 Let Me See You Butterfly (Them Jeans Remix).L	   01:19:44:21	   01:23:00:05	   00:03:15:08	Unmuted
+1       	7       	07 58 19 ID1 (from Boiler Room Festival 2021 Ash Lauryn in New York City).L	   01:23:00:05	   01:25:54:18	   00:02:54:12	Unmuted
+1       	8       	08 58 19 Momma's Groove (Jimpster's Hip Replacement Mix).L	   01:25:54:18	   01:28:05:02	   00:02:10:07	Unmuted
+1       	9       	09 58 19 I'm Searching (feat. Bluey Robinson) [Kerri's 623 Again Vocal Mix].L	   01:28:05:02	   01:31:13:10	   00:03:08:08	Unmuted
+1       	10      	10 58 19 ID2 (from Boiler Room Festival 2021 Ash Lauryn in New York City).L	   01:31:13:10	   01:35:36:01	   00:04:22:14	Unmuted
+1       	11      	11 58 19 Black Space Jazz.L   	   01:35:36:01	   01:39:21:03	   00:03:45:01	Unmuted
+1       	12      	12 58 19 ID3 (from Boiler Room Festival 2021 Ash Lauryn in New York City).L	   01:39:21:03	   01:43:51:03	   00:04:29:23	Unmuted
+1       	13      	13 58 19 Remember When.L      	   01:43:51:03	   01:46:49:05	   00:02:58:02	Unmuted
+1       	14      	14 58 19 Do It Your Way (feat. John Ciafone).L	   01:46:49:05	   01:50:20:09	   00:03:31:03	Unmuted
+1       	15      	15 58 19 ID4 (from Boiler Room Festival 2021 Ash Lauryn in New York City).L	   01:50:20:09	   01:53:09:10	   00:02:49:00	Unmuted
+1       	16      	16 58 19 Let's Sing.L         	   01:53:09:10	   01:57:20:20	   00:04:11:10	Unmuted
+1       	17      	17 58 19 Ass Go To Work.L     	   01:57:20:20	   02:00:44:00	   00:03:23:03	Unmuted
+1       	18      	18 58 19 ID5 (from Boiler Room Festival 2021 Ash Lauryn in New York City).L	   02:00:44:00	   02:04:10:00	   00:03:26:00	Unmuted
+1       	19      	19 58 19 Quartier Sex.L       	   02:04:10:00	   02:08:48:10	   00:04:38:09	Unmuted
+1       	20      	20 58 19 Sexual Obsession.L   	   02:08:48:10	   02:12:14:06	   00:03:25:20	Unmuted
+1       	21      	21 58 19 Commentary 2 (from Boiler Room Festival 2021 Ash Lauryn in New York City).L	   02:12:14:06	   02:12:31:05	   00:00:16:23	Unmuted
+
+
+2       	1       	01 58 19 Commentary (from Boiler Room Festival 2021 Ash Lauryn in New York City).R	   01:06:17:05	   01:06:46:13	   00:00:29:07	Unmuted
+2       	2       	02 58 19 How It's Done (feat. K.E) [Original Version].R	   01:06:46:13	   01:11:03:11	   00:04:16:22	Unmuted
+2       	3       	03 58 19 Let's Get the Rhythm.R	   01:11:03:11	   01:14:04:08	   00:03:00:20	Unmuted
+2       	4       	04 58 19 Natural High (Mike Dunn Black Glitter MixX).R	   01:14:04:08	   01:17:06:05	   00:03:01:20	Unmuted
+2       	5       	05 58 19 Random.R             	   01:17:06:05	   01:19:44:21	   00:02:38:16	Unmuted
+2       	6       	06 58 19 Let Me See You Butterfly (Them Jeans Remix).R	   01:19:44:21	   01:23:00:05	   00:03:15:08	Unmuted
+2       	7       	07 58 19 ID1 (from Boiler Room Festival 2021 Ash Lauryn in New York City).R	   01:23:00:05	   01:25:54:18	   00:02:54:12	Unmuted
+2       	8       	08 58 19 Momma's Groove (Jimpster's Hip Replacement Mix).R	   01:25:54:18	   01:28:05:02	   00:02:10:07	Unmuted
+2       	9       	09 58 19 I'm Searching (feat. Bluey Robinson) [Kerri's 623 Again Vocal Mix].R	   01:28:05:02	   01:31:13:10	   00:03:08:08	Unmuted
+2       	10      	10 58 19 ID2 (from Boiler Room Festival 2021 Ash Lauryn in New York City).R	   01:31:13:10	   01:35:36:01	   00:04:22:14	Unmuted
+2       	11      	11 58 19 Black Space Jazz.R   	   01:35:36:01	   01:39:21:03	   00:03:45:01	Unmuted
+2       	12      	12 58 19 ID3 (from Boiler Room Festival 2021 Ash Lauryn in New York City).R	   01:39:21:03	   01:43:51:03	   00:04:29:23	Unmuted
+2       	13      	13 58 19 Remember When.R      	   01:43:51:03	   01:46:49:05	   00:02:58:02	Unmuted
+2       	14      	14 58 19 Do It Your Way (feat. John Ciafone).R	   01:46:49:05	   01:50:20:09	   00:03:31:03	Unmuted
+2       	15      	15 58 19 ID4 (from Boiler Room Festival 2021 Ash Lauryn in New York City).R	   01:50:20:09	   01:53:09:10	   00:02:49:00	Unmuted
+2       	16      	16 58 19 Let's Sing.R         	   01:53:09:10	   01:57:20:20	   00:04:11:10	Unmuted
+2       	17      	17 58 19 Ass Go To Work.R     	   01:57:20:20	   02:00:44:00	   00:03:23:03	Unmuted
+2       	18      	18 58 19 ID5 (from Boiler Room Festival 2021 Ash Lauryn in New York City).R	   02:00:44:00	   02:04:10:00	   00:03:26:00	Unmuted
+2       	19      	19 58 19 Quartier Sex.R       	   02:04:10:00	   02:08:48:10	   00:04:38:09	Unmuted
+2       	20      	20 58 19 Sexual Obsession.R   	   02:08:48:10	   02:12:14:06	   00:03:25:20	Unmuted
+2       	21      	21 58 19 Commentary 2 (from Boiler Room Festival 2021 Ash Lauryn in New York City).R	   02:12:14:06	   02:12:31:05	   00:00:16:23	Unmuted
+
+
